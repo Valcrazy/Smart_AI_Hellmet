@@ -1,0 +1,4 @@
+MPU6050 [cite: 51]
+Adafruit GFX Library [cite: 52]
+Adafruit SSD1306 [cite: 53]
+Firebase ESP Client [cite: 54]

@@ -7,6 +7,7 @@ const firebaseConfig = {
     apiKey: "AIzaSyD8gCGOgc6yyzPxCmKuOlVFt6f148xjYuU", // From Firebase Project Settings [cite: 237]
     authDomain: "smart-ai-helmet-5b9f4.firebaseapp.com", // From Firebase Project Settings [cite: 238]
     databaseURL: "https://smart-ai-helmet-5b9f4-default-rtdb.firebaseio.com", // Your Database URL [cite: 239]
+    storageBucket: "smart-ai-helmet-5b9f4.firebasestorage.app",
     projectId: "smart-ai-helmet-5b9f4", // From Firebase Project Settings [cite: 240]
 };
 

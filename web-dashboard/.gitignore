@@ -1,0 +1,9 @@
+# Firebase config (keep secure)
+src/firebase-config.js
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

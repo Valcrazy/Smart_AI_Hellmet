@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 MPU6050 [cite: 51]
 Adafruit GFX Library [cite: 52]
 Adafruit SSD1306 [cite: 53]
 Firebase ESP Client [cite: 54]
+=======
+MPU6050
+Adafruit GFX Library
+Adafruit SSD1306
+Firebase ESP Client
+ArduinoJson
+>>>>>>> 1a59f8641719194898b0c7b3ecd92f634dc91755

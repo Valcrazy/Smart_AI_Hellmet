@@ -38,13 +38,9 @@ ai-smart-helmet-hackathon/
 
 ## 👥 Team
 
-<<<<<<< HEAD
 Vishal.V
 Santhosh.T
 Abilash.P
-=======
-[Add your team members here]
->>>>>>> 1a59f8641719194898b0c7b3ecd92f634dc91755
 
 ## 📅 Hackathon Timeline
 
